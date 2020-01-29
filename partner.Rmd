@@ -1,0 +1,13 @@
+---
+title: "Partner"
+author: "John Chandara <mrpotatofactory@gmail.com>"
+date: "1/27/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+First Commit
+SHA: 7e990245ec1987a3eca2fed92a2d1809c39a275e
